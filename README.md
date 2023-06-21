@@ -1,4 +1,4 @@
-UI model
+UI model View
 
 ![Screenshot 2023-06-21 at 12 36 35 AM](https://github.com/Botir-Babadzhanov/quizApp/assets/65371376/5d3ac7ff-1556-48a0-9bfc-d521f010b8dd)
 
